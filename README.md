@@ -23,7 +23,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://olibrian.github.io/hitobito_upptime)
+[**Visit our status website →**](https://olibrian.github.io/hitobito_uptime)
 
 ## 📄 License
 
