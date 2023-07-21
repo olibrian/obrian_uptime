@@ -9,6 +9,8 @@ sites:
     url: https://db.scout.ch
   - name: Hitobito SWW
     url: https://rando-community.ch/
+  - name: My Website
+    url: https://obrian.ch/
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
