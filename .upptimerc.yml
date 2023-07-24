@@ -10,7 +10,7 @@ sites:
   - name: Hitobito SWW
     url: https://rando-community.ch/
   - name: My Website
-    url: https://obrian.ch/
+    url: http://obrian.ch/
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
