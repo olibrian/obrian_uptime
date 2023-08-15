@@ -42,19 +42,19 @@
     "url": "https://rando-community.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/rando-community.ch.ico",
     "slug": "hitobito-sww",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1305,
-    "timeDay": 10654,
-    "timeWeek": 3245,
-    "timeMonth": 1305,
-    "timeYear": 1305,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1291,
+    "timeDay": 7361,
+    "timeWeek": 2971,
+    "timeMonth": 1291,
+    "timeYear": 1291,
     "dailyMinutesDown": {
-      "2023-08-15": 0
+      "2023-08-15": 10
     }
   },
   {
