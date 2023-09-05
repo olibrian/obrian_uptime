@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1656,
-    "timeDay": 1573,
-    "timeWeek": 1652,
-    "timeMonth": 1718,
-    "timeYear": 1656,
+    "time": 1657,
+    "timeDay": 1623,
+    "timeWeek": 1655,
+    "timeMonth": 1717,
+    "timeYear": 1657,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1293,
-    "timeDay": 937,
-    "timeWeek": 1022,
-    "timeMonth": 1448,
-    "timeYear": 1293,
+    "time": 1291,
+    "timeDay": 1045,
+    "timeWeek": 1035,
+    "timeMonth": 1440,
+    "timeYear": 1291,
     "dailyMinutesDown": {
       "2023-07-30": 20
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 1118,
-    "timeDay": 900,
-    "timeWeek": 827,
-    "timeMonth": 1384,
-    "timeYear": 1118,
+    "time": 1114,
+    "timeDay": 901,
+    "timeWeek": 835,
+    "timeMonth": 1370,
+    "timeYear": 1114,
     "dailyMinutesDown": {
       "2023-08-29": 16
     }
@@ -63,39 +63,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/obrian.ch.ico",
     "slug": "my-website",
     "status": "up",
-    "uptime": "93.87%",
+    "uptime": "93.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.87%",
-    "time": 1279,
-    "timeDay": 1574,
-    "timeWeek": 1437,
-    "timeMonth": 1268,
-    "timeYear": 1279,
+    "uptimeYear": "93.93%",
+    "time": 1296,
+    "timeDay": 1816,
+    "timeWeek": 1514,
+    "timeMonth": 1293,
+    "timeYear": 1296,
     "dailyMinutesDown": {
       "2023-07-24": 561,
       "2023-07-23": 1440,
       "2023-07-22": 1440,
       "2023-07-21": 567
     }
-  },
-  {
-    "name": "Test Broken Site",
-    "url": "https://thissitedoesnotexist.koj.co",
-    "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.koj.co.ico",
-    "slug": "test-broken-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {}
   }
 ]
