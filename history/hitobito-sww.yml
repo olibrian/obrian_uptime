@@ -1,7 +1,7 @@
 url: https://rando-community.ch/
-status: up
-code: 200
-responseTime: 632
-lastUpdated: 2023-11-27T23:13:07.110Z
+status: down
+code: 503
+responseTime: 763
+lastUpdated: 2023-11-28T22:12:19.816Z
 startTime: 2023-07-18T18:48:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
