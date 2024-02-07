@@ -1,7 +1,7 @@
 url: https://db.scout.ch
-status: up
-code: 200
-responseTime: 656
-lastUpdated: 2024-02-07T05:39:37.560Z
+status: down
+code: 503
+responseTime: 1031
+lastUpdated: 2024-02-07T05:50:01.090Z
 startTime: 2023-07-18T18:48:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
