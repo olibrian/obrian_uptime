@@ -4,9 +4,9 @@
     "url": "https://www.hitobito.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.hitobito.ch.ico",
     "slug": "hitobito-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 2226,
     "timeMonth": 1596,
     "timeYear": 1584,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-27": 0
+    }
   },
   {
     "name": "Hitobito PBS",
