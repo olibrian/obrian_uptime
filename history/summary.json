@@ -4,7 +4,7 @@
     "url": "https://www.hitobito.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.hitobito.ch.ico",
     "slug": "hitobito-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1539,
     "timeMonth": 1636,
     "timeYear": 1576,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-18": 0
+    }
   },
   {
     "name": "Hitobito PBS",
@@ -78,11 +80,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/obrian.ch.ico",
     "slug": "my-website",
     "status": "up",
-    "uptime": "98.95%",
+    "uptime": "98.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.95%",
+    "uptimeYear": "98.96%",
     "time": 1193,
     "timeDay": 1226,
     "timeWeek": 1186,
