@@ -4,19 +4,19 @@
     "url": "https://www.hitobito.ch",
     "icon": "https://icons.duckduckgo.com/ip3/www.hitobito.ch.ico",
     "slug": "hitobito-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1563,
-    "timeDay": 1313,
-    "timeWeek": 1340,
-    "timeMonth": 1430,
-    "timeYear": 1563,
+    "time": 1564,
+    "timeDay": 1610,
+    "timeWeek": 1411,
+    "timeMonth": 1445,
+    "timeYear": 1564,
     "dailyMinutesDown": {
-      "2024-05-06": 0
+      "2024-05-06": 10
     }
   },
   {
