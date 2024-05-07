@@ -6,18 +6,16 @@
     "slug": "hitobito-website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1564,
     "timeDay": 1610,
     "timeWeek": 1411,
     "timeMonth": 1445,
     "timeYear": 1564,
-    "dailyMinutesDown": {
-      "2024-05-06": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hitobito PBS",
