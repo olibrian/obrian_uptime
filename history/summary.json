@@ -101,12 +101,12 @@
     "url": "https://qrruby.onrender.com/",
     "icon": "https://icons.duckduckgo.com/ip3/qrruby.onrender.com.ico",
     "slug": "qr-ruby",
-    "status": "up",
-    "uptime": "31.22%",
-    "uptimeDay": "93.95%",
-    "uptimeWeek": "14.07%",
-    "uptimeMonth": "1.33%",
-    "uptimeYear": "31.22%",
+    "status": "down",
+    "uptime": "31.23%",
+    "uptimeDay": "93.94%",
+    "uptimeWeek": "14.30%",
+    "uptimeMonth": "1.38%",
+    "uptimeYear": "31.23%",
     "time": 1911,
     "timeDay": 4105,
     "timeWeek": 2484,
@@ -211,18 +211,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.obrian.ch.ico",
     "slug": "nextcloud-obrian-ch",
     "status": "up",
-    "uptime": "2.05%",
-    "uptimeDay": "2.05%",
-    "uptimeWeek": "2.05%",
-    "uptimeMonth": "2.05%",
-    "uptimeYear": "2.05%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1204,
     "timeDay": 1204,
     "timeWeek": 1204,
     "timeMonth": 1204,
     "timeYear": 1204,
-    "dailyMinutesDown": {
-      "2024-09-09": 9
-    }
+    "dailyMinutesDown": {}
   }
 ]
