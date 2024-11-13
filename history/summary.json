@@ -87,10 +87,10 @@
     "url": "http://obrian.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/obrian.ch.ico",
     "slug": "my-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.36%",
-    "uptimeDay": "98.25%",
-    "uptimeWeek": "99.75%",
+    "uptimeDay": "98.20%",
+    "uptimeWeek": "99.74%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.92%",
     "time": 1419,
@@ -99,6 +99,7 @@
     "timeMonth": 1749,
     "timeYear": 1458,
     "dailyMinutesDown": {
+      "2024-11-13": 1,
       "2024-11-12": 25,
       "2024-07-28": 323,
       "2023-12-28": 80
@@ -110,18 +111,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/qrruby.onrender.com.ico",
     "slug": "qr-ruby",
     "status": "down",
-    "uptime": "75.95%",
+    "uptime": "75.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "75.95%",
+    "uptimeYear": "75.89%",
     "time": 1878,
     "timeDay": 0,
     "timeWeek": 4118,
     "timeMonth": 3048,
     "timeYear": 1878,
     "dailyMinutesDown": {
-      "2024-11-13": 106,
+      "2024-11-13": 283,
       "2024-11-12": 1440,
       "2024-11-11": 1440,
       "2024-11-10": 1440,
@@ -193,9 +194,9 @@
     "url": "https://cloud.obrian.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.obrian.ch.ico",
     "slug": "nextcloud-obrian-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -204,6 +205,8 @@
     "timeWeek": 1535,
     "timeMonth": 1563,
     "timeYear": 1597,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-13": 0
+    }
   }
 ]
