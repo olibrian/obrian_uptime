@@ -93,7 +93,7 @@
     "time": 1453,
     "timeDay": 2017,
     "timeWeek": 1818,
-    "timeMonth": 1914,
+    "timeMonth": 1906,
     "timeYear": 1505,
     "dailyMinutesDown": {
       "2024-11-12": 25,
@@ -106,18 +106,19 @@
     "url": "https://qrruby.onrender.com/",
     "icon": "https://icons.duckduckgo.com/ip3/qrruby.onrender.com.ico",
     "slug": "qr-ruby",
-    "status": "up",
-    "uptime": "64.60%",
-    "uptimeDay": "97.91%",
-    "uptimeWeek": "21.84%",
-    "uptimeMonth": "6.41%",
-    "uptimeYear": "64.60%",
+    "status": "down",
+    "uptime": "64.65%",
+    "uptimeDay": "97.89%",
+    "uptimeWeek": "24.68%",
+    "uptimeMonth": "7.06%",
+    "uptimeYear": "64.65%",
     "time": 1965,
     "timeDay": 17410,
     "timeWeek": 9918,
     "timeMonth": 4761,
     "timeYear": 1965,
     "dailyMinutesDown": {
+      "2024-12-13": 0,
       "2024-12-12": 30,
       "2024-12-11": 766,
       "2024-12-10": 1440,
@@ -210,8 +211,7 @@
       "2024-09-14": 58,
       "2024-09-13": 85,
       "2024-09-12": 72,
-      "2024-09-11": 84,
-      "2024-09-10": 16
+      "2024-09-11": 84
     }
   },
   {
@@ -228,7 +228,7 @@
     "time": 1582,
     "timeDay": 1700,
     "timeWeek": 1395,
-    "timeMonth": 1548,
+    "timeMonth": 1538,
     "timeYear": 1582,
     "dailyMinutesDown": {}
   }
