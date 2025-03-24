@@ -107,14 +107,14 @@
     "url": "https://qrruby.onrender.com/",
     "icon": "https://icons.duckduckgo.com/ip3/qrruby.onrender.com.ico",
     "slug": "qr-ruby",
-    "status": "up",
-    "uptime": "52.75%",
-    "uptimeDay": "82.47%",
-    "uptimeWeek": "31.94%",
-    "uptimeMonth": "15.30%",
-    "uptimeYear": "52.75%",
+    "status": "down",
+    "uptime": "52.76%",
+    "uptimeDay": "84.48%",
+    "uptimeWeek": "32.60%",
+    "uptimeMonth": "15.46%",
+    "uptimeYear": "52.76%",
     "time": 2172,
-    "timeDay": 1010,
+    "timeDay": 896,
     "timeWeek": 1595,
     "timeMonth": 1274,
     "timeYear": 2172,
@@ -289,8 +289,7 @@
       "2024-09-30": 135,
       "2024-09-29": 79,
       "2024-09-28": 74,
-      "2024-09-27": 152,
-      "2024-09-26": 18
+      "2024-09-27": 152
     }
   },
   {
