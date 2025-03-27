@@ -14,7 +14,7 @@
     "timeDay": 1866,
     "timeWeek": 1713,
     "timeMonth": 1603,
-    "timeYear": 1515,
+    "timeYear": 1516,
     "dailyMinutesDown": {
       "2025-03-21": 17,
       "2024-08-10": 16
@@ -83,12 +83,12 @@
     "status": "up",
     "uptime": "99.48%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.75%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.91%",
     "time": 1584,
     "timeDay": 2143,
-    "timeWeek": 1989,
+    "timeWeek": 2164,
     "timeMonth": 1932,
     "timeYear": 1735,
     "dailyMinutesDown": {
@@ -107,12 +107,12 @@
     "url": "https://qrruby.onrender.com/",
     "icon": "https://icons.duckduckgo.com/ip3/qrruby.onrender.com.ico",
     "slug": "qr-ruby",
-    "status": "up",
-    "uptime": "53.17%",
-    "uptimeDay": "73.25%",
-    "uptimeWeek": "63.89%",
-    "uptimeMonth": "22.66%",
-    "uptimeYear": "53.17%",
+    "status": "down",
+    "uptime": "53.18%",
+    "uptimeDay": "74.04%",
+    "uptimeWeek": "64.40%",
+    "uptimeMonth": "22.77%",
+    "uptimeYear": "53.18%",
     "time": 2167,
     "timeDay": 464,
     "timeWeek": 1904,
@@ -286,7 +286,7 @@
       "2024-10-06": 226,
       "2024-10-05": 86,
       "2024-10-04": 45,
-      "2024-10-03": 35
+      "2024-10-03": 19
     }
   },
   {
@@ -297,12 +297,12 @@
     "status": "up",
     "uptime": "99.93%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.74%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.93%",
     "time": 1653,
     "timeDay": 1675,
-    "timeWeek": 1715,
+    "timeWeek": 1721,
     "timeMonth": 1706,
     "timeYear": 1653,
     "dailyMinutesDown": {
