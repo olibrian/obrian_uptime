@@ -14,7 +14,7 @@
     "timeDay": 1167,
     "timeWeek": 1309,
     "timeMonth": 1832,
-    "timeYear": 1538,
+    "timeYear": 1539,
     "dailyMinutesDown": {
       "2025-03-28": 63,
       "2025-03-27": 7,
@@ -92,7 +92,7 @@
     "timeDay": 857,
     "timeWeek": 1415,
     "timeMonth": 1791,
-    "timeYear": 1742,
+    "timeYear": 1743,
     "dailyMinutesDown": {
       "2025-03-20": 26,
       "2025-02-01": 20,
@@ -109,11 +109,11 @@
     "url": "https://qrruby.onrender.com/",
     "icon": "https://icons.duckduckgo.com/ip3/qrruby.onrender.com.ico",
     "slug": "qr-ruby",
-    "status": "up",
+    "status": "down",
     "uptime": "99.06%",
-    "uptimeDay": "68.12%",
+    "uptimeDay": "68.11%",
     "uptimeWeek": "80.84%",
-    "uptimeMonth": "90.68%",
+    "uptimeMonth": "90.74%",
     "uptimeYear": "99.06%",
     "time": 2373,
     "timeDay": 2497,
@@ -134,7 +134,7 @@
       "2025-03-25": 576,
       "2025-03-24": 274,
       "2025-03-23": 289,
-      "2025-03-22": 123
+      "2025-03-22": 96
     }
   },
   {
