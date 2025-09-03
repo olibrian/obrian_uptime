@@ -27,6 +27,13 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 [**Visit our status website →**](https://olibrian.github.io/hitobito_uptime)
 
+## How to update github action token:
+Generate a new token:
+https://github.com/settings/personal-access-tokens
+
+Add the token into Secrets and variables for GitHub Actions
+https://github.com/olibrian/obrian_uptime/settings/secrets/actions
+
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
