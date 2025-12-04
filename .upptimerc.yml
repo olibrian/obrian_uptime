@@ -15,6 +15,8 @@ sites:
     url: https://qrruby.onrender.com/
   - name: Nextcloud obrian.ch
     url: https://cloud.obrian.ch/
+  - name: Open Source Katalog
+    url: https://www.opensource.admin.ch/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
