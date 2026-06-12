@@ -79,11 +79,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/obrian.ch.ico",
     "slug": "my-website",
     "status": "down",
-    "uptime": "99.14%",
-    "uptimeDay": "99.84%",
+    "uptime": "99.13%",
+    "uptimeDay": "86.78%",
     "uptimeWeek": "97.42%",
-    "uptimeMonth": "99.22%",
-    "uptimeYear": "98.42%",
+    "uptimeMonth": "98.79%",
+    "uptimeYear": "98.39%",
     "time": 1862,
     "timeDay": 868,
     "timeWeek": 894,
@@ -149,7 +149,7 @@
       "2026-05-05": 52,
       "2026-06-05": 272,
       "2026-06-08": 67,
-      "2026-06-12": 2
+      "2026-06-12": 190
     }
   },
   {
@@ -158,11 +158,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/qrruby.onrender.com.ico",
     "slug": "qr-ruby",
     "status": "down",
-    "uptime": "51.59%",
+    "uptime": "51.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "17.85%",
+    "uptimeYear": "17.89%",
     "time": 992,
     "timeDay": 603,
     "timeWeek": 413,
@@ -476,11 +476,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.obrian.ch.ico",
     "slug": "nextcloud-obrian-ch",
     "status": "down",
-    "uptime": "99.06%",
-    "uptimeDay": "99.98%",
+    "uptime": "99.04%",
+    "uptimeDay": "86.91%",
     "uptimeWeek": "97.42%",
-    "uptimeMonth": "99.22%",
-    "uptimeYear": "98.43%",
+    "uptimeMonth": "98.79%",
+    "uptimeYear": "98.40%",
     "time": 2271,
     "timeDay": 1636,
     "timeWeek": 2796,
@@ -543,7 +543,7 @@
       "2026-05-05": 52,
       "2026-06-05": 274,
       "2026-06-08": 67,
-      "2026-06-12": 0
+      "2026-06-12": 188
     }
   },
   {
