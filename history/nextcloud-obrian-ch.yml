@@ -1,7 +1,7 @@
 url: https://cloud.obrian.ch/
-status: up
-code: 200
-responseTime: 3201
-lastUpdated: 2026-06-17T00:16:54.044Z
+status: down
+code: 403
+responseTime: 389
+lastUpdated: 2026-06-17T06:52:49.390Z
 startTime: 2024-09-09T08:45:19.391Z
 generator: Upptime <https://github.com/upptime/upptime>
