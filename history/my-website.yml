@@ -1,7 +1,7 @@
 url: http://obrian.ch/
-status: up
-code: 200
-responseTime: 1587
-lastUpdated: 2026-08-05T00:01:00.078Z
+status: down
+code: 403
+responseTime: 245
+lastUpdated: 2026-08-05T23:38:13.185Z
 startTime: 2023-07-21T14:33:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
