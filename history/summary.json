@@ -14,7 +14,7 @@
     "timeDay": 2133,
     "timeWeek": 2166,
     "timeMonth": 2051,
-    "timeYear": 1745,
+    "timeYear": 1746,
     "dailyMinutesDown": {}
   },
   {
@@ -32,7 +32,7 @@
     "timeDay": 4979,
     "timeWeek": 4338,
     "timeMonth": 2575,
-    "timeYear": 1496,
+    "timeYear": 1498,
     "dailyMinutesDown": {
       "2025-09-22": 35,
       "2025-12-22": 120,
@@ -58,7 +58,7 @@
     "timeDay": 1313,
     "timeWeek": 1295,
     "timeMonth": 1211,
-    "timeYear": 884,
+    "timeYear": 885,
     "dailyMinutesDown": {
       "2025-08-25": 20,
       "2025-09-22": 22,
@@ -74,17 +74,17 @@
     "url": "http://obrian.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/obrian.ch.ico",
     "slug": "my-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.09%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "98.99%",
     "uptimeMonth": "98.96%",
-    "uptimeYear": "98.14%",
-    "time": 1776,
-    "timeDay": 1587,
-    "timeWeek": 1061,
-    "timeMonth": 1021,
-    "timeYear": 1734,
+    "uptimeYear": "98.15%",
+    "time": 1773,
+    "timeDay": 916,
+    "timeWeek": 980,
+    "timeMonth": 1001,
+    "timeYear": 1733,
     "dailyMinutesDown": {
       "2025-08-13": 23,
       "2025-08-21": 31,
@@ -152,7 +152,8 @@
       "2026-07-08": 142,
       "2026-07-16": 141,
       "2026-07-26": 72,
-      "2026-07-30": 100
+      "2026-07-30": 100,
+      "2026-08-05": 2
     }
   },
   {
@@ -161,11 +162,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/qrruby.onrender.com.ico",
     "slug": "qr-ruby",
     "status": "down",
-    "uptime": "54.92%",
+    "uptime": "54.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "32.67%",
+    "uptimeYear": "32.90%",
     "time": 598,
     "timeDay": 637,
     "timeWeek": 391,
@@ -424,16 +425,16 @@
     "url": "https://cloud.obrian.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.obrian.ch.ico",
     "slug": "nextcloud-obrian-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "98.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.01%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.00%",
     "uptimeMonth": "98.80%",
     "uptimeYear": "98.14%",
     "time": 2423,
-    "timeDay": 3317,
-    "timeWeek": 3181,
-    "timeMonth": 3144,
+    "timeDay": 1904,
+    "timeWeek": 2912,
+    "timeMonth": 3080,
     "timeYear": 2577,
     "dailyMinutesDown": {
       "2025-08-13": 24,
@@ -502,7 +503,8 @@
       "2026-07-11": 76,
       "2026-07-16": 136,
       "2026-07-26": 72,
-      "2026-07-30": 100
+      "2026-07-30": 100,
+      "2026-08-05": 0
     }
   },
   {
