@@ -77,16 +77,16 @@
     "url": "http://obrian.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/obrian.ch.ico",
     "slug": "my-website",
-    "status": "down",
-    "uptime": "99.09%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.04%",
-    "uptimeYear": "98.12%",
+    "status": "up",
+    "uptime": "99.08%",
+    "uptimeDay": "97.44%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "98.96%",
+    "uptimeYear": "98.11%",
     "time": 1751,
-    "timeDay": 1715,
-    "timeWeek": 1101,
-    "timeMonth": 1172,
+    "timeDay": 1653,
+    "timeWeek": 1140,
+    "timeMonth": 1180,
     "timeYear": 1698,
     "dailyMinutesDown": {
       "2025-09-01": 23,
@@ -158,7 +158,7 @@
       "2026-08-13": 43,
       "2026-08-17": 33,
       "2026-08-22": 37,
-      "2026-08-25": 1
+      "2026-08-25": 37
     }
   },
   {
@@ -410,17 +410,17 @@
     "url": "https://cloud.obrian.ch/",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.obrian.ch.ico",
     "slug": "nextcloud-obrian-ch",
-    "status": "down",
-    "uptime": "98.98%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.05%",
-    "uptimeYear": "98.11%",
-    "time": 2476,
-    "timeDay": 3047,
-    "timeWeek": 2704,
-    "timeMonth": 2943,
-    "timeYear": 2620,
+    "status": "up",
+    "uptime": "98.97%",
+    "uptimeDay": "97.44%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "98.96%",
+    "uptimeYear": "98.10%",
+    "time": 2481,
+    "timeDay": 3633,
+    "timeWeek": 2895,
+    "timeMonth": 2982,
+    "timeYear": 2624,
     "dailyMinutesDown": {
       "2025-09-04": 41,
       "2025-09-09": 27,
@@ -491,7 +491,7 @@
       "2026-08-13": 43,
       "2026-08-17": 33,
       "2026-08-22": 37,
-      "2026-08-25": 0
+      "2026-08-25": 37
     }
   },
   {
